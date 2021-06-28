@@ -1,38 +1,142 @@
-.App {
+.nav-tabs {
+  float: right;
+  margin-right: 10%;
+}
+
+.header {
+  border-bottom: 3px solid #2220b4;
+}
+
+body {
+  background-color: #fffdd0;
+}
+
+.card {
+  background: #fff;
+  border-radius: 2px;
+  height: 325px;
+  margin: 1rem;
+  position: relative;
+  width: 325px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: left;
+}
+
+.card > .img-container {
+  height: 100%;
+  overflow: hidden;
   text-align: center;
+  background: #6caddc;
+  padding-top: 10px;
+}
+.card > .img-container > img {
+  width: 90%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.card > .content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 15px;
+  height: 200px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.card > .content > ul {
+  list-style-type: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.card > .content > ul > li {
+  margin-top: 18px;
+}
+
+.port-card {
+  height: 400px;
+}
+
+.portfolio-container {
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
+
+.container {
+  margin-left: 25%;
+  border: 1px white solid;
+  background-color: #fffdd0;
+  width: 50%;
+}
+
+body {
+  background-image: url('assets/img/0.jpg'); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  min-height: 1300px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.nav-tabs {
+  border: 2px lightgray solid;
+}
+
+.nav-link {
   color: white;
+  font-weight: bold;
 }
 
-.App-link {
-  color: #61dafb;
+.about-container {
+  border: 1px white solid;
+  background-color: #fffdd0;
+  width: 50%;
+  margin-left: 25%;
+  height: 600px;
+  padding: 20px;
+  margin-top: 10%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.profile {
+  width: 300px;
+  height: auto;
+  padding: 15px;
+}
+
+.resumePNG {
+  width: 150px;
+  height: auto;
+  margin-left: 75px;
+  margin-top: 15px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: teal;
+  color: white;
+  text-align: center;
+  border-top: 3px solid #2220b4;
+}
+
+.contact-card {
+  border: 1px white solid;
+  background-color: #fffdd0;
+  width: 25%;
+  margin-left: 35%;
+  margin-top: 20px;
+}
+
+.contactLinks {
+  margin-left: 35%;
+}
+
+.card-home {
+  height: 400px;
+}
+
+.row-home {
+  margin-top: 10%;
+  margin-left: 33%;
+}
+
+.ome-profile-photo {
+  margin-left: 20%;
 }
