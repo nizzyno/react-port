@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-port/static/css/main.20c81426.chunk.css",
+    "main.js": "/react-port/static/js/main.0e915136.chunk.js",
+    "main.js.map": "/react-port/static/js/main.0e915136.chunk.js.map",
+    "runtime-main.js": "/react-port/static/js/runtime-main.55c368cb.js",
+    "runtime-main.js.map": "/react-port/static/js/runtime-main.55c368cb.js.map",
+    "static/css/2.d45d6843.chunk.css": "/react-port/static/css/2.d45d6843.chunk.css",
+    "static/js/2.716ff665.chunk.js": "/react-port/static/js/2.716ff665.chunk.js",
+    "static/js/2.716ff665.chunk.js.map": "/react-port/static/js/2.716ff665.chunk.js.map",
+    "static/js/3.c3443699.chunk.js": "/react-port/static/js/3.c3443699.chunk.js",
+    "static/js/3.c3443699.chunk.js.map": "/react-port/static/js/3.c3443699.chunk.js.map",
+    "index.html": "/react-port/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/react-port/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.20c81426.chunk.css.map": "/react-port/static/css/main.20c81426.chunk.css.map",
+    "static/js/2.716ff665.chunk.js.LICENSE.txt": "/react-port/static/js/2.716ff665.chunk.js.LICENSE.txt",
+    "static/media/resume.f41b6300.pdf": "/react-port/static/media/resume.f41b6300.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55c368cb.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.716ff665.chunk.js",
+    "static/css/main.20c81426.chunk.css",
+    "static/js/main.0e915136.chunk.js"
+  ]
+}
