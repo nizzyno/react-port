@@ -3,7 +3,7 @@ import React from 'react';
 function Header(props) {
   return (
     <header className="header bg-info">
-      <a href="/">
+      <a href="https://nizzyno.github.io/react-port/">
         {' '}
         <h1 className="text-white">Noah B. Harbison </h1>
       </a>
