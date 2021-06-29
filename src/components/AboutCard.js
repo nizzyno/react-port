@@ -40,7 +40,10 @@ function AboutCard() {
           <p>
             I am interested in learning about new opportunities and can be
             reached through through
-            <a href="https://www.linkedin.com/in/noah-harbison-5b826752/">
+            <a
+              href="https://www.linkedin.com/in/noah-harbison-5b826752/"
+              target="blank"
+            >
               Linkedin
             </a>{' '}
             or by email:
@@ -48,18 +51,25 @@ function AboutCard() {
               nizzyno@icloud.com
             </a>
             . A full list of my apps and repositories can be found on{' '}
-            <a href="https://www.github.com/nizzyno/">Github.</a>
+            <a href="https://www.github.com/nizzyno/" target="blank">
+              Github.
+            </a>
           </p>
         </div>
 
         <div className="card-body contactLinks">
           <a
             href="https://www.linkedin.com/in/noah-harbison-5b826752/"
+            target="blank"
             className="card-link"
           >
             LinkedIn
           </a>
-          <a href="https://www.github.com/nizzyno/" className="card-link">
+          <a
+            href="https://www.github.com/nizzyno/"
+            target="blank"
+            className="card-link"
+          >
             GitHub
           </a>
         </div>

@@ -20,13 +20,13 @@ function HomeCard() {
               <li>
                 <a
                   href="https://www.linkedin.com/in/noah-harbison-5b826752/"
-                  className="ml-5"
+                  target="blank"
                 >
                   LinkedIn
                 </a>
               </li>
               <li>
-                <a href="https://www.github.com/nizzyno/" className="ml-5">
+                <a href="https://www.github.com/nizzyno/" target="blank">
                   Github
                 </a>
               </li>
