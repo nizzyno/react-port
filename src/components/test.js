@@ -11,7 +11,7 @@ function ContactCard(props) {
               <label htmlFor="name">Name:</label>
             </div>
             <div>
-              <input type="text" name="name" placeholder="Preferred name" />
+              <input type="text" name="name" />
             </div>
           </div>
           <div>
@@ -19,7 +19,7 @@ function ContactCard(props) {
               <label htmlFor="email">Email:</label>
             </div>
             <div>
-              <input type="email" name="email" placeholder="Your email" />
+              <input type="email" name="email" />
             </div>
           </div>
           <div>
@@ -27,20 +27,13 @@ function ContactCard(props) {
               <label htmlFor="message">Message:</label>
             </div>
             <div>
-              <textarea
-                name="message"
-                rows="5"
-                cols="30"
-                placeholder="Your message"
-              />
+              <textarea name="message" rows="5" />
             </div>
           </div>
           <div>
             <div></div>
             <div>
-              <button type="submit" text="Submit">
-                Send
-              </button>
+              <button type="submit" text="Submit" />
             </div>
           </div>
         </form>

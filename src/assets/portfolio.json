@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Budget Tracker PWA",
-    "image": "/",
-    "project": "Expense tracking app",
-    "location": "https://github.com/nizzyno/budget-tracker"
+    "name": "angelfish environment awareness site",
+    "image": "https://github.com/nizzyno/react-port/main/src/assets/angelfish.png",
+    "project": "Full-Stack web app",
+    "location": "https://github.com/Emilyrh1058/Group-Project-2---Angelfish"
   },
   {
     "id": 2,
