@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
+    "name": "HAVEN",
+    "image": "/",
+    "project": "Full-Stack MERN app",
+    "location": "https://aqueous-waters-14749.herokuapp.com/"
+  },
+  {
+    "id": 2,
     "name": "angelfish environment awareness site",
     "image": "https://github.com/nizzyno/react-port/main/src/assets/angelfish.png",
     "project": "Full-Stack web app",
     "location": "https://github.com/Emilyrh1058/Group-Project-2---Angelfish"
-  },
-  {
-    "id": 2,
-    "name": "Social Network API",
-    "image": "/",
-    "project": "Social Network backend API",
-    "location": "https://github.com/nizzyno/social-network-api"
   },
   {
     "id": 3,
@@ -29,10 +29,10 @@
   },
   {
     "id": 5,
-    "name": "README Generator",
+    "name": "Social Network API",
     "image": "/",
-    "project": "Professional README.md Generator",
-    "location": "https://github.com/nizzyno/readme-generator"
+    "project": "Social Network backend API",
+    "location": "https://github.com/nizzyno/social-network-api"
   },
   {
     "id": 6,
